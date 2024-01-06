@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "YouTubeKit",
     platforms: [
-        .iOS(.v17),
+        .iOS(.v15),
         .macOS(.v13)
     ],
     products: [
